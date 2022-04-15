@@ -1,5 +1,5 @@
 from ftplib import parse257
-import streamlit as st
+import streamlit
 
 from collections import Counter
 from PIL import Image
