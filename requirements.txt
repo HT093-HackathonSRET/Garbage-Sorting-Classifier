@@ -1,4 +1,4 @@
-import streamlit
+import streamlit as st
 
 from collections import Counter
 from PIL import Image
